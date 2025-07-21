@@ -74,7 +74,7 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React State Management and Data Fetching
 
-- [redux](https://github.com/reduxjs/redux) - Predictable State Container for JavaScript Apps
+- [redux toolkit](https://github.com/reduxjs/redux-toolkit) - Predictable State Container for JavaScript Apps
 - [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management
 - [zustand](https://github.com/pmndrs/zustand) - Bear necessities for state management in React
 - [tanstack-query](https://github.com/TanStack/query) - Powerful asynchronous state management
