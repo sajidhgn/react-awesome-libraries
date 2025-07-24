@@ -192,6 +192,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [formatjs](https://github.com/formatjs/formatjs) - Internationalize your web apps
 - [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for React done right
+- [intlayer](https://github.com/aymericzip/intlayer) - Internationalization for React introducing a per-component approach
 
 #### React Graphics and Animations
 
